@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>g_img371.jpg</filename>
+	<path>C:\Users\xiaoq\Downloads\FYP 1024 resnet\train\g_img371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Junction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>501</ymin>
+			<xmax>264</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Junction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>559</ymin>
+			<xmax>1014</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+</annotation>
