@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>g_img483.jpg</filename>
+	<path>C:\Users\xiaoq\Downloads\FYP 1024 resnet\train\g_img483.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Junction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>398</ymin>
+			<xmax>411</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Junction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>402</ymin>
+			<xmax>918</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>
